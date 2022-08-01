@@ -1,0 +1,8 @@
+gcc
+make
+cmake
+glew-utils
+libglew-dev
+libglfw3
+libglfw3-dev
+libglm-dev

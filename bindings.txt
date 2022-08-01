@@ -1,0 +1,9 @@
+W: Forward
+S: Backward
+D: Right
+A: Left
+
+Space: Up
+Left Ctrl: Down
+
+Left Shift: Speed Boost (Works in all directions!)
