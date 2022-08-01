@@ -25,4 +25,4 @@ chmod +x first_person_pyramid
 ## Dependencies
 All dependencies needed for running the demo can be found in dependencies.txt file.
 ## Bindings
-Keyboard bindings used in the demo are listed in bindings.txt file (keep in mind that the listed bindings aren't set dynamically, and bindings.txt is just a reference for bindings used in program's source)
+Keyboard bindings used in the demo are listed in bindings.txt file (keep in mind that the listed bindings aren't set dynamically, and bindings.txt is just a reference to bindings used in program's source)
