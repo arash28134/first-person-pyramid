@@ -11,7 +11,6 @@ src/shaders.cpp
 src/mesh.cpp
 src/camera.cpp 
 src/mesh_utils.cpp 
-src/math_utils.cpp 
 src/anim_utils.cpp
 src/window_utils.cpp)
 
