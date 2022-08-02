@@ -1,5 +1,7 @@
 # First Person Pyramid
 First Person Pyramid is a 3D demo made possible using GLFW, GLEW and GLM libraries. it uses basic functionalities of GLFW library (and 3D graphics) such as View, Projection and Model matrices; as well as other concepts like window creation and input handling.
+## Installation
+To install the demo, either [Build from source](#building-from-source) or download a pre-built binary from [Releases](https://github.com/arash28134/first-person-pyramid/releases) section.
 ## Building from source
 - For building the demo, first make sure you have the dependencies installed by running:
 ```
