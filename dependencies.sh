@@ -1,2 +1,2 @@
 sudo apt update && 
-xargs sudo apt install < dependencies.txt
+xargs -a dependencies.txt sudo apt-get install
