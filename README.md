@@ -27,8 +27,8 @@ cd build
 chmod +x first_person_pyramid
 ```
 ## Dependencies
-All dependencies needed for running the demo can be found in dependencies.txt file.
+All dependencies needed for running the demo can be found in **dependencies.txt** file; which is used by **dependencies.sh**.
 ## Bindings
-Keyboard bindings used in the demo are listed in bindings.txt file (keep in mind that the listed bindings aren't set dynamically, and bindings.txt is just a reference to bindings used in program's source)
+Keyboard bindings used in the demo are listed in **bindings.txt** file (keep in mind that the listed bindings aren't set dynamically, and **bindings.txt** is just a reference to bindings used in program's source)
 ## Current issues
 At the moment, we don't have any CMake configurations setup for Windows and Mac.
