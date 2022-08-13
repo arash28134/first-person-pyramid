@@ -82,7 +82,7 @@ int Window::initialize()
 	glfwSetInputMode(mainWindow, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
 	// allow the use of modern OpenGL extension
-	glewExperimental = GLU_TRUE;
+	glewExperimental = GL_TRUE;
 
 	GLenum error = glewInit();
 	if (error != GLEW_OK)
