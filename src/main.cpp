@@ -15,10 +15,6 @@
 #include <glm/gtc/matrix_transform.hpp> // translate, rotate, scale, identity
 #include <glm/gtc/type_ptr.hpp>
 
-// stb library
-#define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
-
 // user defined base libraries
 #include "window.h"
 #include "mesh.h"
@@ -27,7 +23,6 @@
 #include "camera.h"
 
 // user defined util libraries
-#include "window_utils.h"
 #include "mesh_utils.h"
 #include "anim_utils.h"
 
